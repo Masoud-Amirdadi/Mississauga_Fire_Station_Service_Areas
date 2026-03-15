@@ -1,2 +1,22 @@
-This visualization tool shows long-term fire service coverage across several performance measures, including existing conditions, optimized NFPA standards, augmented response time, and fulfilled response for the City of Mississauga located in Ontario, Canada. The map also displays incident spread and station locations, allowing spatial patterns to be viewed in one place. The tool draws inspiration from the web-GIS platforms commonly used by municipal fire departments and other city divisions to present operational programs. However, unlike those systems that are typically built on commercial platforms such as ESRI, this tool runs entirely in a web browser and can be hosted on GitHub Pages, offering an accessible, open-source way to share spatial results and support discussions on emergency response planning. Our aim is twofold: to present the research methodology in a clear visual format, and to enable researchers to communicate and transmit on their findings through interactive tools that reach a wider audience.
-Part of SimuTraffX Lab: https://www.simutraffx.com/ 
+Overview
+
+This repository provides an interactive visualization tool for exploring long-term fire emergency response performance in the City of Mississauga, Ontario, Canada. The tool presents multiple service measures, including existing conditions, optimized average conventional NFPA response time, augmented response time, and fulfilled response time. It also displays incident distribution and fire station locations, allowing users to examine spatial patterns and compare service coverage across the city.
+
+Inspired by municipal web-GIS tools used by fire departments, such as the City of Mississauga’s public fire stations map, this platform extends beyond basic station mapping by presenting additional information on the urban emergency response dimensions examined in this study. It is fully accessible through a web browser and designed to be transferable to other case studies.
+
+The repository presents the study methodology and results in an interactive visual format, with particular emphasis on three distinct response-time measures developed and evaluated for the Mississauga case study.
+
+This repository is based on the following study:
+
+A Framework for Urban Fire Emergency Response: Integrating GIS, Queuing, Location-Allocation, and Robust Optimization.
+Available at SSRN: https://ssrn.com/abstract=6384380
+DOI: http://dx.doi.org/10.2139/ssrn.6384380
+
+Links
+The following public municipal platforms provide reference examples of fire station mapping and open spatial data used by city governments:
+
+Toronto Fire Station Locations
+https://www.toronto.ca/community-people/public-safety-alerts/understanding-emergency-services/fire-station-locations/#location=&lat=&lng=&zoom=
+
+City of Mississauga – Fire Stations Dataset
+https://data.mississauga.ca/datasets/city-fire-stations-1/explore?location=43.609087%2C-79.674782%2C10
