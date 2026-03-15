@@ -1,6 +1,11 @@
 ## Overview
 
-This repository provides an interactive visualization tool for exploring long-term fire emergency response performance in the City of Mississauga, Ontario, Canada. The tool presents multiple service measures, including existing conditions, optimized average conventional NFPA response time, augmented response time, and fulfilled response time. It also displays incident distribution and fire station locations, allowing users to examine spatial patterns and compare service coverage across the city.
+This repository provides an interactive visualization tool for exploring long-term fire emergency response performance in the City of Mississauga, Ontario, Canada.
+
+The tool presents multiple service measures, including:
+- Existing and optimized average conventional/NFPA response time
+- Existing and optimized average augmented response time
+- Existing and optimized average fulfilled response time
 
 Inspired by municipal web-GIS tools used by fire departments, such as the City of Mississauga’s public fire stations map, this platform extends beyond basic station mapping by presenting additional information on the urban emergency response dimensions examined in this study. It is fully accessible through a web browser and designed to be transferable to other case studies.
 
@@ -8,7 +13,6 @@ The repository presents the study methodology and results in an interactive visu
 
 ## Related Study
 
-- Amirdadi, M., Mohammadi, A., Park, P. Y., Nourinejad, M., & Solis, A. O.
 - *A Framework for Urban Fire Emergency Response: Integrating GIS, Queuing, Location-Allocation, and Robust Optimization*
 - SSRN: https://ssrn.com/abstract=6384380
 - DOI: http://dx.doi.org/10.2139/ssrn.6384380
