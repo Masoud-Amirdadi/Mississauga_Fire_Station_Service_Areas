@@ -7,9 +7,7 @@ The tool presents multiple service measures, including:
 - Existing and optimized average augmented response time
 - Existing and optimized average fulfilled response time
 
-Inspired by municipal web-GIS tools used by fire departments, such as the City of Mississauga’s public fire stations map, this platform extends beyond basic station mapping by presenting additional information on the urban emergency response dimensions examined in this study. It is fully accessible through a web browser and designed to be transferable to other case studies.
-
-The repository presents the study methodology and results in an interactive visual format, with particular emphasis on three distinct response-time measures developed and evaluated for the Mississauga case study.
+Inspired by municipal web-GIS tools used by fire departments, such as the City of Mississauga’s public fire stations map, this platform extends beyond basic station mapping by presenting additional information on the urban emergency response dimensions examined in this study. The repository presents the study methodology and results in an interactive visual format, with particular emphasis on three distinct response-time measures developed and evaluated for the Mississauga case study.
 
 ## Related Study
 
