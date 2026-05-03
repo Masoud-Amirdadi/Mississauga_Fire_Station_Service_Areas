@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Mississauga Fire Station Service Areas: Interactive Emergency Response Visualization Tool"
+message: "Please cite this software and the associated paper if you use or adapt this repository."
+type: software
+authors:
+  - family-names: Amirdadi
+    given-names: Masoud
+    affiliation: York University
+repository-code: "https://github.com/Masoud-Amirdadi/Mississauga_Fire_Station_Service_Areas"
+url: "https://masoud-amirdadi.github.io/Mississauga_Fire_Station_Service_Areas/"
+license: MIT
+version: 1.0.0
+date-released: 2026-05-03
+
+preferred-citation:
+  type: article
+  title: "A Framework for Urban Fire Emergency Response: Integrating GIS Queuing Location-Allocation and Robust Optimization"
+  authors:
+    - family-names: Amirdadi
+      given-names: Masoud
+    - family-names: Mohammadi
+      given-names: Ahmad
+    - family-names: Park
+      given-names: Peter Y.
+    - family-names: Nourinejad
+      given-names: Mehdi
+    - family-names: Solis
+      given-names: Adriano O.
+  doi: "10.2139/ssrn.6384380"
+  url: "https://ssrn.com/abstract=6384380"
