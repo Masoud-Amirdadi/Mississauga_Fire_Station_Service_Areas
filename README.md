@@ -1,7 +1,7 @@
 # Mississauga Fire Station Service Areas: Interactive Emergency Response Visualization Tool
 
-Live interactive map: Open Web Map: https://masoud-amirdadi.github.io/Mississauga_Fire_Station_Service_Areas/  
-Repository: GitHub Repository: https://github.com/Masoud-Amirdadi/Mississauga_Fire_Station_Service_Areas  
+Live interactive map: [Open Web Map](https://masoud-amirdadi.github.io/Mississauga_Fire_Station_Service_Areas/)  
+Repository: [GitHub Repository](https://github.com/Masoud-Amirdadi/Mississauga_Fire_Station_Service_Areas)  
 License: MIT
 
 ## Overview
